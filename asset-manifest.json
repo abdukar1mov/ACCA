@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a9406f7.css",
+    "main.js": "/static/js/main.1159d284.js",
+    "static/media/ErrorPage.gif": "/static/media/ErrorPage.79d4143169438a957233.gif",
+    "static/media/mathH.png": "/static/media/mathH.539d249f4be6c0312fdd.png",
+    "static/media/geH.png": "/static/media/geH.996d4edde1054199be02.png",
+    "static/media/IeltsH.png": "/static/media/IeltsH.719c3897383d4886adb8.png",
+    "static/media/frontendH.png": "/static/media/frontendH.cf03aa2db420b660272a.png",
+    "static/media/Headerimg.JPG": "/static/media/Headerimg.ecb4160940194fd4ac96.JPG",
+    "static/media/accaCard.png": "/static/media/accaCard.7c516d3672d72abf8892.png",
+    "static/media/Acca.png": "/static/media/Acca.25d31812f25486396ce9.png",
+    "static/media/FrontEnd.png": "/static/media/FrontEnd.7b353c80c609d5f8ea0c.png",
+    "static/media/Math.png": "/static/media/Math.69e5a7a1ca65be90aa2a.png",
+    "static/media/IELTS.png": "/static/media/IELTS.1af8869237150c829af2.png",
+    "static/media/GeneralEnglish.png": "/static/media/GeneralEnglish.003e9b58c2131f6c8d64.png",
+    "static/media/accaH.png": "/static/media/accaH.1e244bf4b4425de33fa5.png",
+    "static/media/Logo.svg": "/static/media/Logo.438268a733068d7c6dc4e9e2ad4f583c.svg",
+    "index.html": "/index.html",
+    "main.4a9406f7.css.map": "/static/css/main.4a9406f7.css.map",
+    "main.1159d284.js.map": "/static/js/main.1159d284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9406f7.css",
+    "static/js/main.1159d284.js"
+  ]
+}
